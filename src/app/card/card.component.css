@@ -1,0 +1,27 @@
+.container{margin-top: 10px;
+    margin-left: 250px;
+    width: 60%;
+    height: 60%;
+    border: 1px solid #b5ebf5;
+    background-color: #dcf5fa;
+}
+.textbox{
+   margin-top: 20px;
+    margin-left: 12px;
+}
+.textbox2{
+    margin-left: 5px;
+}
+.card1{
+    
+    width: 600px;
+    height: 100px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    border: 1px solid #f7b7d8;
+    background-color: #f5e4ed;
+}
+label{
+margin-left: 20px;
+}
